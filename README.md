@@ -6,6 +6,11 @@
 
 This project is a Sales Management System developed as a final project for a university course in Project Management. The system is implemented in Java and provides functionalities for managing various aspects of a sales business, including client management, product inventory, sales transactions, and reporting.
 
+<p align= "center">
+    <img src="https://github.com/KPlanisphere/sales-management-system/assets/60454942/2c5e574c-6169-4997-96b8-96f7a3ee0ab5" style="width: 70%; height: auto;">
+</p>
+
+
 ### Features
 
 - **Client Management**: Add, update, delete, and list clients.
